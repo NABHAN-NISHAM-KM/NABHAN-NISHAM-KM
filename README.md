@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Mern or Laravel Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NABHAN-NISHAM-KM/Portfolio](https://github.com/NABHAN-NISHAM-KM/Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/NABHAN-NISHAM-KM](https://github.com/NABHAN-NISHAM-KM)
 
 - 💬 Ask me about **React, Laravel, Python, Tech.**
 
@@ -18,10 +18,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1G7EDdzH__XdDSFq4cHiQ6pKb9a2pb6Pb/view?usp=sharing](https://drive.google.com/file/d/1G7EDdzH__XdDSFq4cHiQ6pKb9a2pb6Pb/view?usp=sharing)
 
 - ⚡ Fun fact **I make playlists for moods that don’t even exist yet.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,5 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabhan-nisham-km&show_icons=true&locale=en&layout=compact" alt="nabhan-nisham-km" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabhan-nisham-km&show_icons=true&locale=en" alt="nabhan-nisham-km" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabhan-nisham-km&" alt="nabhan-nisham-km" /></p>
